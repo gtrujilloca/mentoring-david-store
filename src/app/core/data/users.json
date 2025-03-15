@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "nickname": "John Doe",
+            "email": "jhondoe@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "2",
+            "nickname": "Jane Carlos",
+            "email": "janec@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "3",
+            "nickname": "John David",
+            "email": "jhonda@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
